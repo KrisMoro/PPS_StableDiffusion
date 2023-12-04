@@ -1,7 +1,8 @@
 # Fast Stable Diffusion
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-GPU)
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-GPU+)
+[Free-GPU ![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-GPU)
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-A4000)
 
 ## Run these notebooks with Paperspace Gradient
 
