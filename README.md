@@ -1,8 +1,10 @@
 # Fast Stable Diffusion
 
 [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-GPU](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-GPU)  
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-A4000](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-A4000)  
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-RTX5000](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-RTX5000)  
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-A4000 (16 GB GPU,	45 GB RAM.	8 vCPUs)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-A4000)  
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-RTX5000 (16 GB GPU,	30 GB RAM,	8 vCPUs)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-RTX5000)  
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-P5000 (16 GB GPU,	30 GB RAM,	8 vCPUs)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-P5000)  
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg) Free-P6000 (24 GB GPU,	30 GB RAM,	8 vCPUs)](https://console.paperspace.com/github/KrisMoro/PPS_StableDiffusion?machine=Free-P6000)  
 
 
 ## Run these notebooks with Paperspace Gradient
